@@ -1,0 +1,64 @@
+.contact-section {
+  background-image: url(../images/contactimg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 135px;
+}
+
+.contact-section img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 32px;
+}
+
+.contact-section p {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: center;
+  color: #555555;
+  width: 846px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  padding-top: 45px;
+  display: flex;
+  gap: -15px;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  border: none;
+  padding: 21px 250px 21px 13px;
+}
+
+::placeholder {
+  font-family: Orbitron;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+}
+
+.subscribe-btn {
+  border: none;
+  padding: 15px 8px;
+  background-color: #57b8ff;
+}
+
+.subscribe-btn {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+  color: white;
+}

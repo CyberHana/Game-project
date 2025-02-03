@@ -1,0 +1,27 @@
+.about-section-start {
+  margin-top: 250px;
+  background-color: #fdd04a;
+  padding-top: 130px;
+}
+
+.about-section img {
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 27px;
+}
+
+.about-section p {
+  font-family: Orbitron;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: #fff;
+  max-width: 576px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 44px;
+}

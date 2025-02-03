@@ -1,0 +1,61 @@
+@import url(../css/header.css);
+@import url(../css/about.css);
+@import url(../css/home.css);
+@import url(../css/aboutend.css);
+@import url(../css/shop.css);
+@import url(../css/game.css);
+@import url(../css/pages.css);
+@import url(../css/contact.css);
+@import url(../css/team.css);
+
+.orbitron-<uniquifier > {
+  font-family: "Orbitron", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1360px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+html {
+  --primary-color: #57b8ff;
+  --secondary-color: white;
+  --third-color: black;
+  --fourth-color: #555555;
+  --btn: pointer;
+}
+
+body {
+  background-color: #57b8ff; /* Light mode foni (oq emas, kulrang yoki boshqa rang) */
+  color: #000000;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: indigo;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: none; /* Tugma dastlab yashirin bo'ladi */
+  font-size: 16px;
+  z-index: 1;
+}
+
+.back-to-top:hover {
+  color: white;
+}

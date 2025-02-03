@@ -1,0 +1,32 @@
+.about-section-end {
+  background-color: #fdd04a;
+  display: flex;
+
+  padding-bottom: 129px;
+}
+
+.items {
+  background: #ffffff59;
+  width: 193px;
+  height: 89px;
+  padding: 10px 11px;
+  border-radius: 15px;
+  gap: 20px;
+}
+
+.white-border {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 171px;
+  height: 67px;
+  background: #ffffff4d;
+  padding: 17px 30px;
+  border-radius: 15px;
+  color: black;
+}
+
+.text {
+  display: flex;
+  gap: 5px;
+}

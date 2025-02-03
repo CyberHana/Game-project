@@ -1,0 +1,89 @@
+.pages-section {
+  background-color: black;
+  color: white;
+  padding-bottom: 87px;
+}
+
+.pages-section h1 {
+  font-family: Orbitron;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 74px;
+  text-align: left;
+  width: 541px;
+}
+
+.pages-fire {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pages-items {
+  display: flex;
+  gap: 24px;
+}
+
+.pages-items-left p {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  margin: 54px 0 28px;
+  color: #57b8ff;
+}
+
+.pages-items-left h2 {
+  font-family: Orbitron;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 46px;
+  text-align: left;
+  color: white;
+  width: 607px;
+}
+
+.pages-items-right {
+  display: flex;
+  gap: 24px;
+}
+
+.pages-cards-left p {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  margin: 30px 0 20px;
+  color: #57b8ff;
+}
+
+.pages-cards-left h2 {
+  font-family: Orbitron;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 46px;
+  text-align: left;
+  color: white;
+  width: 281px;
+}
+
+.pages-cards-right p {
+  font-family: Orbitron;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  margin: 30px 0 20px;
+  color: #57b8ff;
+}
+
+.pages-cards-right h2 {
+  font-family: Orbitron;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 46px;
+  text-align: left;
+  color: white;
+  width: 281px;
+}
